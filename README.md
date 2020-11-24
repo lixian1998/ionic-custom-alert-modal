@@ -7,3 +7,4 @@
 > 3. `npm install`
 > 4. run from a terminal`ionic serve`
 
+![image-demo](../customModalApp\demo.png)
